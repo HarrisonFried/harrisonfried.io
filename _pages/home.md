@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-The Socio-Environmental Networks and Sustainability (SENS) Lab is a research group at the [School of Environment and Natural Resources](https://senr.osu.edu) at [The Ohio State University](https://www.osu.edu). We investigate how people interact with one another and with ecosystems, and how those interactions affect social and environmental outcomes.
+Harrison Fried is a PhD Student at Ohio State University. He is a part of the Socio-Environmental Networks and Sustainability (SENS) Lab (https://sens-lab.github.io) and is a student in the [School of Environment and Natural Resources](https://senr.osu.edu) at [The Ohio State University](https://www.osu.edu). He investigates how people interact with one another and with ecosystems, and how those interactions affect social and environmental outcomes.
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
